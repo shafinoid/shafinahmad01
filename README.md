@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: My hobby is playing computer games
-- 
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
