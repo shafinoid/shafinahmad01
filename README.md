@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
-  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shafinahmad01&show_icons=true&count_private=true&hide_border=false&theme=merko" align="center" />
+</div>
 
 ### <div align="center">I'm Shafin, a Tech Enthusiast 👨‍💻I have started my career as a Support Engineer in 2021 at [weDevs](https://wedevs.com/) 🚀
 </div>  
