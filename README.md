@@ -11,11 +11,6 @@
 <div align="center">⚡ Fun fact: I use tabs over spaces 😜</div>  
   
 
-<br/>  
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
