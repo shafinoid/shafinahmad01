@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shafinahmad01&show_icons=true&count_private=true&hide_border=false&theme=merko" align="center" />
 </div>
 
@@ -69,11 +64,11 @@
 </td></tr></table>  
 
 <br/>  
-
+<!--
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shafinahmad01&show_icons=true&count_private=true&hide_border=false&theme=merko" align="center" /></div>
   
-
+-->
 
 <br/>  
 
