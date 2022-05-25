@@ -5,7 +5,7 @@
 </div>  
   
 
-<div align="center">❓ I am always curious about technologies 💻</div>  
+<div align="center">❓ I am always curious about new technologies 💻</div>  
   
 
 <div align="center">⚡ Fun fact: I use tabs over spaces 😜</div>  
